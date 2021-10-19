@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Details</string>
+    <string name="enter_your_name">ENTER YOUR NAME</string>
+    <string name="enter_your_college_name">ENTER YOUR COLLEGE NAME</string>
+    <string name="enter_your_section">ENTER YOUR SECTION</string>
+    <string name="enter_your_stream">ENTER YOUR STREAM</string>
+    <string name="enter_your_roll_number">ENTER YOUR ROLL NUMBER</string>
+    <string name="display">DISPLAY</string>
+    <string name="view">View</string>
+    <string name="textview">TextView</string>
+    <string name="buttons">Buttons</string>
+
+</resources>

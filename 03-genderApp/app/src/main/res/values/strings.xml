@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">genderApp</string>
+    <string name="display">DISPLAY</string>
+    <string name="username_shivam2712">USERNAME: Shivam2712</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="order">ORDER</string>
+    <string name="tacos">TACOS</string>
+    <string name="momo">MOMO</string>
+    <string name="pepsi">PEPSI</string>
+    <string name="pizza">PIZZA</string>
+    <string name="you_ordered">YOU ORDERED:</string>
+    <string name="choose_your_food_preference">CHOOSE YOUR FOOD PREFERENCE</string>
+    <string name="select_food_prefrence">Select Food Prefrence</string>
+</resources>

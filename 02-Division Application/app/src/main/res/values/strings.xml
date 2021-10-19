@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android1st</string>
+    <string name="divide">DIVIDE</string>
+    <string name="enter_number_02">ENTER NUMBER 02</string>
+    <string name="enter_number_01">ENTER NUMBER 01</string>
+    <string name="dividor_app">DIVIDOR APP</string>
+    <string name="divder_app">Divder App</string>
+</resources>

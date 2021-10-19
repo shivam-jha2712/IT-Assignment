@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Modulus</string>
+    <string name="divide">DIVIDE</string>
+    <string name="enter_the_denominator">Enter the Denominator</string>
+    <string name="enter_the_numerator">Enter the Numerator</string>
+    <string name="mdodulus_application">Mdodulus Application</string>
+    <string name="mddulus_application" />
+    <string name="modulus">Modulus</string>
+</resources>
